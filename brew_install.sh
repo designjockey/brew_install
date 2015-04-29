@@ -4,12 +4,14 @@
 brew_packages=(
 	'nodejs' 
 	'mongodb'
+	'heroku'
 )
 
 brew_casks=(
 	'google-chrome'
 	'firefox'
 	'spectacle'
+	'couleurs'
 	'slack'
 	'phpstorm'
 	'webstorm'
