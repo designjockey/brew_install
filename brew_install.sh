@@ -39,3 +39,6 @@ do
 	echo 'Installing' $app
 	brew cask install $app
 done
+
+echo 'Installing brew services...'
+brew tap gapple/services
